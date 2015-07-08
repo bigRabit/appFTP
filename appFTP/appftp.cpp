@@ -1,5 +1,7 @@
 #include "appftp.h"
 
+//test add a feature
+
 appFTP::appFTP(QWidget *parent, Qt::WFlags flags)
 	: QWidget(parent, flags)
 {
